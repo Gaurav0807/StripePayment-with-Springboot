@@ -1,6 +1,6 @@
 // A reference to Stripe.js initialized with a fake API key.
 // Sign in to see examples pre-filled with your key.
-var stripe = Stripe("pk_test_51IuYrkSBMZn0qlUjVNRADmiXPViP3tPIxNCL5B2rUvVdjhk7v2Zc9nQzATfOXs90Sbyj51HNZm99F9tuLxG3GoVC00KXdF7YVq");
+var stripe = Stripe("pk_test_51IuYrkSBMZn0qlUjUmdrqykdjfL5yQ0ZSVawFVQASicaKqW0EWLBanGuJC179gvkx3mkdmo8eQHx0KWGBryzn7Ze00fn1p985R");
 
 // The items the customer wants to buy
 var purchase = {
