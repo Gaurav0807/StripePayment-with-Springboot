@@ -1,6 +1,6 @@
 // A reference to Stripe.js initialized with a fake API key.
 // Sign in to see examples pre-filled with your key.
-var stripe = Stripe("pk_test_51IuYrkSBMZn0qlUjUmdrqykdjfL5yQ0ZSVawFVQASicaKqW0EWLBanGuJC179gvkx3mkdmo8eQHx0KWGBryzn7Ze00fn1p985R");
+var stripe = Stripe("Enter your Publishable key");
 
 // The items the customer wants to buy
 var purchase = {
